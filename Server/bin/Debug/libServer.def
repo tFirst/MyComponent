@@ -1,0 +1,6 @@
+EXPORTS
+    DllCanUnloadNow@0 @1
+    DllGetClassObject@12 @2
+    DllMain@12 @3
+    DllRegisterServer@0 @4
+    DllUnregisterServer@0 @5

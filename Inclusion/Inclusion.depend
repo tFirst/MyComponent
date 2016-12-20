@@ -1,0 +1,34 @@
+# depslib dependency file v1.0
+1482127107 source:e:\com\mycomponent\inclusion\components.cpp
+	<stdio.h>
+	"Components.h"
+	"InClass.h"
+
+1482130769 e:\com\mycomponent\inclusion\components.h
+	<windows.h>
+	"InterfacesEx.h"
+	<vector>
+	<fstream>
+	<iostream>
+	<string>
+
+1482132989 e:\com\mycomponent\inclusion\interfacesex.h
+	<windows.h>
+	"../Server/Interfaces.h"
+
+1482126063 e:\com\mycomponent\server\interfaces.h
+	<windows.h>
+
+1481701286 e:\com\mycomponent\inclusion\inclass.h
+	<vector>
+	<iostream>
+	<math.h>
+
+1482126827 source:e:\com\mycomponent\inclusion\main.cpp
+	"main.h"
+	<stdio.h>
+	"Components.h"
+
+1482125925 e:\com\mycomponent\inclusion\main.h
+	<windows.h>
+

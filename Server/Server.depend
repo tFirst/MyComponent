@@ -1,0 +1,108 @@
+# depslib dependency file v1.0
+1479909564 source:c:\users\ИвановКС\desktop\!\univer\server\main.cpp
+	"main.h"
+	<stdio.h>
+	"Components.h"
+
+1479909309 c:\users\ИвановКС\desktop\!\univer\server\main.h
+	<windows.h>
+
+1479902284 source:c:\users\ИвановКС\desktop\!\univer\server\components.cpp
+	"interfaces.h"
+	<stdio.h>
+	"Components.h"
+
+1479884247 c:\users\ИвановКС\desktop\!\univer\server\interfaces.h
+	<windows.h>
+
+1479900142 c:\users\ИвановКС\desktop\!\univer\server\components.h
+	<windows.h>
+
+1479909564 source:d:\work\users\iks\teaching\20162017\1\content\com\example\server\main.cpp
+	"main.h"
+	<stdio.h>
+	"Components.h"
+
+1479909309 d:\work\users\iks\teaching\20162017\1\content\com\example\server\main.h
+	<windows.h>
+
+1479900142 d:\work\users\iks\teaching\20162017\1\content\com\example\server\components.h
+	<windows.h>
+
+1481101975 source:d:\work\users\iks\teaching\20162017\1\content\com\example\server\components.cpp
+	"interfaces.h"
+	<stdio.h>
+	"Components.h"
+
+1481091486 d:\work\users\iks\teaching\20162017\1\content\com\example\server\interfaces.h
+	<windows.h>
+
+1479905966 source:c:\my programs\codeblocks\server\main.cpp
+	"main.h"
+	<stdio.h>
+	"Components.h"
+
+1479905710 c:\my programs\codeblocks\server\main.h
+	<windows.h>
+
+1479896544 c:\my programs\codeblocks\server\components.h
+	<windows.h>
+
+1482048932 source:c:\codeblocks\server\components.cpp
+	"interfaces.h"
+	<stdio.h>
+	"Components.h"
+	"InClass.h"
+	<fstream>
+	<iostream>
+	<string>
+
+1482044662 c:\codeblocks\server\interfaces.h
+	<vector>
+	<iostream>
+	<windows.h>
+
+1481692618 c:\codeblocks\server\components.h
+	<windows.h>
+
+1481694441 source:c:\codeblocks\server\main.cpp
+	"main.h"
+	<stdio.h>
+	"Components.h"
+
+1481685921 c:\codeblocks\server\main.h
+	<windows.h>
+
+1481701286 c:\codeblocks\server\inclass.h
+	<vector>
+	<iostream>
+	<math.h>
+
+1482140867 source:e:\com\mycomponent\server\components.cpp
+	<stdio.h>
+	"Components.h"
+	"InClass.h"
+	<fstream>
+	<iostream>
+	<string>
+
+1482126063 e:\com\mycomponent\server\interfaces.h
+	<windows.h>
+
+1482126711 e:\com\mycomponent\server\components.h
+	<windows.h>
+	"Interfaces.h"
+
+1481701286 e:\com\mycomponent\server\inclass.h
+	<vector>
+	<iostream>
+	<math.h>
+
+1482126822 source:e:\com\mycomponent\server\main.cpp
+	"main.h"
+	<stdio.h>
+	"Components.h"
+
+1481685921 e:\com\mycomponent\server\main.h
+	<windows.h>
+

@@ -1,0 +1,63 @@
+# depslib dependency file v1.0
+1479913708 source:c:\users\ИвановКС\desktop\!\univer\client\main.cpp
+	<objbase.h>
+	<stdio.h>
+	"Interfaces.h"
+
+1479884213 c:\users\ИвановКС\desktop\!\univer\client\interfaces.h
+	<windows.h>
+
+1481102692 source:d:\work\users\iks\teaching\20162017\1\content\com\example\client\main.cpp
+	<objbase.h>
+	<stdio.h>
+	"Interfaces.h"
+
+1481091978 d:\work\users\iks\teaching\20162017\1\content\com\example\client\interfaces.h
+	<windows.h>
+
+1481683879 source:c:\my programs\codeblocks\client\main.cpp
+	<objbase.h>
+	<stdio.h>
+	"Interfaces.h"
+
+1481682868 c:\my programs\codeblocks\client\interfaces.h
+	<windows.h>
+
+1482045637 source:c:\codeblocks\client\main.cpp
+	<objbase.h>
+	<iostream>
+	<stdio.h>
+	<locale>
+	"../Server/Interfaces.h"
+
+1481704147 c:\codeblocks\client\interfaces.h
+	<vector>
+	<iostream>
+	<windows.h>
+
+1482044662 c:\codeblocks\server\interfaces.h
+	<vector>
+	<iostream>
+	<windows.h>
+
+1482125836 source:e:\com\mycomponent\client\main.cpp
+	<objbase.h>
+	<iostream>
+	<stdio.h>
+	<locale>
+	"../Server/Interfaces.h"
+
+1482126063 e:\com\mycomponent\server\interfaces.h
+	<windows.h>
+
+1482134907 source:e:\com\mycomponent\clientex\main.cpp
+	<objbase.h>
+	<iostream>
+	<stdio.h>
+	<locale>
+	"../Inclusion/InterfacesEx.h"
+
+1482132989 e:\com\mycomponent\inclusion\interfacesex.h
+	<windows.h>
+	"../Server/Interfaces.h"
+

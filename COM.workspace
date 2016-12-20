@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_workspace_file>
+	<Workspace title="Workspace">
+		<Project filename="Server/Server.cbp" />
+		<Project filename="Inclusion/Inclusion.cbp" />
+		<Project filename="ClientEx/ClientEx.cbp" />
+		<Project filename="Client/Client.cbp" />
+	</Workspace>
+</CodeBlocks_workspace_file>
